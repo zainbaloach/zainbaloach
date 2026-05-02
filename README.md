@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi, I'm Zain 👋
 
+I focus on data analysis, working on real-world projects to extract insights and solve problems using data.
+
+I'm currently building and refining projects while strengthening my skills in Python, SQL, and data visualization.
+
+My toolkit includes Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, and Jupyter Notebook.
+
+Feel free to connect with me on GitHub, LinkedIn, or via email.
 <!--
 **zainbaloach/zainbaloach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
