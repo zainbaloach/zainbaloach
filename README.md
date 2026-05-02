@@ -4,7 +4,7 @@ I focus on data analysis, working on real-world projects to extract insights and
 
 I'm currently building and refining projects while strengthening my skills in Python, SQL, and data visualization.
 
-My toolkit includes Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, and Jupyter Notebook.
+My toolkit includes Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Jupyter Notebook, Ai tools.
 
 Feel free to connect with me on GitHub, LinkedIn, or via email.
 <!--
